@@ -3,7 +3,7 @@
 
 ## 👋 Olá, me chamo Lucas Moreira!
  
- - 📚 estudando Javascript, html, css
+ - 📚 estudando Análise e desenvolvimento de sistemas
  - 💼 trabalho atualmente como autônomo
  - 🙌 em busca de uma oportunidade como desenvolvedor
  - 🗣️ nível de inglês: intermedário
