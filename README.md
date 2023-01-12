@@ -5,6 +5,11 @@
  - 🙌 em busca de uma oportunidade como desenvolvedor
  - 🗣️ nível de inglês: intermedário
  
+ <div <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+ </div>
+ 
+ ##
+ 
  <div align="center">
   <a href="https://github.com/luccasme">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luccasme&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
