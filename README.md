@@ -8,15 +8,13 @@
  - 🙌 em busca de uma oportunidade como desenvolvedor
  - 🗣️ nível de inglês: intermedário
 
-<p align="center">
-  <img widht="250" height="150" src="https://user-images.githubusercontent.com/114117892/211970921-fb37b0c7-2d93-4c08-89ff-1d7754609753.gif" alt="GIF">
-</p>
-</div>
+
+![gif](https://user-images.githubusercontent.com/114117892/212066870-334853bb-34d1-4f43-a247-4f3d7db2fa40.gif)
 
 ##
 
  
- <div align="center">
+<div align="center">
   <a href="https://github.com/luccasme">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luccasme&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasme&layout=compact&langs_count=7&theme=dark">
