@@ -8,15 +8,12 @@
  - 🙌 em busca de uma oportunidade como desenvolvedor
  - 🗣️ nível de inglês: intermedário
 
- 
- 
-
 <p align="center">
   <img widht="250" height="150" src="https://user-images.githubusercontent.com/114117892/211970921-fb37b0c7-2d93-4c08-89ff-1d7754609753.gif" alt="GIF">
 </p>
-
 </div>
 
+##
 
  
  <div align="center">
