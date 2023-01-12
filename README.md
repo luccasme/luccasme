@@ -1,10 +1,10 @@
-<div display: grid> ## 👋 Olá, me chamo Lucas Moreira!
+ ## 👋 Olá, me chamo Lucas Moreira!
  
  - 📚 estudando Javascript, html, css
  - 💼 trabalho atualmente como autônomo
  - 🙌 em busca de uma oportunidade como desenvolvedor
  - 🗣️ nível de inglês: intermedário
-
+<div height="50" widht="50>
 ![giphy](https://user-images.githubusercontent.com/114117892/211967626-61727048-19eb-47e8-8540-51cdacc8cb59.gif)
 </div>
  
