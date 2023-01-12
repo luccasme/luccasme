@@ -6,7 +6,9 @@
  - 🗣️ nível de inglês: intermedário
 
  <p align="center">
+ 
  ![giphy](https://user-images.githubusercontent.com/114117892/211967626-61727048-19eb-47e8-8540-51cdacc8cb59.gif)
+ 
  </p>
 
  
