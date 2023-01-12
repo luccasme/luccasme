@@ -5,8 +5,7 @@
  - 🙌 em busca de uma oportunidade como desenvolvedor
  - 🗣️ nível de inglês: intermedário
 
-
- ![gif](<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>)
+![giphy](https://user-images.githubusercontent.com/114117892/211967626-61727048-19eb-47e8-8540-51cdacc8cb59.gif)
 
  
  
