@@ -1,17 +1,23 @@
- ## 👋 Olá, me chamo Lucas Moreira!
+<div style"display: flex" ><br>
+<div>
+
+## 👋 Olá, me chamo Lucas Moreira!
  
  - 📚 estudando Javascript, html, css
  - 💼 trabalho atualmente como autônomo
  - 🙌 em busca de uma oportunidade como desenvolvedor
  - 🗣️ nível de inglês: intermedário
+
  
- ##
  
- 
-<div align="center">
- <img align="center" src= <iframe="https://giphy.com/embed/4rZA5D22301iMgrUNd" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tecnicageracao-4rZA5D22301iMgrUNd">/a></p>
+
+<p align="center">
+  <img widht="250" height="150" src="https://user-images.githubusercontent.com/114117892/211970921-fb37b0c7-2d93-4c08-89ff-1d7754609753.gif" alt="GIF">
+</p>
+
 </div>
- ##
+
+
  
  <div align="center">
   <a href="https://github.com/luccasme">
