@@ -7,7 +7,8 @@
  
  ##
  
-  ![giphy](<iframe src="https://giphy.com/embed/4rZA5D22301iMgrUNd" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tecnicageracao-4rZA5D22301iMgrUNd">via GIPHY</a></p>)
+ <div align="center">
+ <img align="center alt="gif" src="https://giphy.com/embed/4rZA5D22301iMgrUNd" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/tecnicageracao-4rZA5D22301iMgrUNd"></a></p>
 
  ##
  
