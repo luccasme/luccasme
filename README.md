@@ -11,10 +11,14 @@
 
 ![gif](https://user-images.githubusercontent.com/114117892/212066870-334853bb-34d1-4f43-a247-4f3d7db2fa40.gif)
 
+
 ##
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasme&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasme&layout=compact&theme=radical)](https://github.com/luccasme/github-readme-stats)
 
-
+ 
+##
  
 #### Atualmente me aperfeiçoando nas linguagens:
  <div style="display: inline_block"><br>
