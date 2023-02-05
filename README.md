@@ -4,7 +4,7 @@
 ## 👋 Olá, me chamo Lucas Moreira!
  
  - 📚 cursando Análise e desenvolvimento de sistemas
- - 💼 trabalho atualmente como autônomo
+ - 💼 trabalho atualmente como orientador consultivo
  - 🙌 em busca de uma oportunidade como desenvolvedor
  - 🗣️ nível de inglês: intermedário
 
